@@ -24,7 +24,7 @@ section{
 
 }
 .link-batton {
-    text-decoration: none;
+   text-decoration: none;
     padding: 10px 25px;
     background-color: orange;
     background-image: linear-gradient(orange tomato);
@@ -92,3 +92,12 @@ section{
             background-color: turquoise;
             
         }
+        #email{
+            text-decoration: none;
+            padding: 1px 2px;
+            background-color: orange;
+            background-image: linear-gradient(orange tomato);
+            color: white;
+            font-size: 15px;
+            border-radius: 6%;}
+            
